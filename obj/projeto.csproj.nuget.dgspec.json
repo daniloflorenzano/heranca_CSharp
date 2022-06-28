@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/home/danilo/Documentos/Projetos/dotnet/projeto/projeto.csproj": {}
+    "C:\\Users\\DaniloMaia\\OneDrive - Direct Digital\\Documents\\Projetos\\heranca_CSharp\\projeto.csproj": {}
   },
   "projects": {
-    "/home/danilo/Documentos/Projetos/dotnet/projeto/projeto.csproj": {
+    "C:\\Users\\DaniloMaia\\OneDrive - Direct Digital\\Documents\\Projetos\\heranca_CSharp\\projeto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/danilo/Documentos/Projetos/dotnet/projeto/projeto.csproj",
+        "projectUniqueName": "C:\\Users\\DaniloMaia\\OneDrive - Direct Digital\\Documents\\Projetos\\heranca_CSharp\\projeto.csproj",
         "projectName": "projeto",
-        "projectPath": "/home/danilo/Documentos/Projetos/dotnet/projeto/projeto.csproj",
-        "packagesPath": "/home/danilo/.nuget/packages/",
-        "outputPath": "/home/danilo/Documentos/Projetos/dotnet/projeto/obj/",
+        "projectPath": "C:\\Users\\DaniloMaia\\OneDrive - Direct Digital\\Documents\\Projetos\\heranca_CSharp\\projeto.csproj",
+        "packagesPath": "C:\\Users\\DaniloMaia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DaniloMaia\\OneDrive - Direct Digital\\Documents\\Projetos\\heranca_CSharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/danilo/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\DaniloMaia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -52,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.202/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

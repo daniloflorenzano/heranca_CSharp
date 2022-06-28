@@ -14,6 +14,18 @@ namespace Projeto
             // uma variavel do tipo Super Classe pode receber qualquer Sub Classe
 
             Account acc1 = bacc;
+            Account acc2 = new BusinessAccount(1003, "Joao", 0.0, 600.0);
+
+            // Downcasting
+            // conversao de Sub Classe para Super Classe
+
+            BusinessAccount acc3 = (BusinessAccount)acc2;
+
+            if (acc2 is BusinessAccount)
+            {
+                BusinessAccount acc4 = acc2 as BusinessAccount;
+                Console.WriteLine("Loan!");
+            }
         }
     }
 }

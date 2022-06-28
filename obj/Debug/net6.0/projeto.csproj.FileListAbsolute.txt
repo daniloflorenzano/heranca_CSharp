@@ -13,3 +13,18 @@
 /home/danilo/Documentos/Projetos/dotnet/projeto/obj/Debug/net6.0/projeto.pdb
 /home/danilo/Documentos/Projetos/dotnet/projeto/obj/Debug/net6.0/projeto.genruntimeconfig.cache
 /home/danilo/Documentos/Projetos/dotnet/projeto/obj/Debug/net6.0/ref/projeto.dll
+C:\Users\DaniloMaia\OneDrive - Direct Digital\Documents\Projetos\heranca_CSharp\bin\Debug\net6.0\projeto.exe
+C:\Users\DaniloMaia\OneDrive - Direct Digital\Documents\Projetos\heranca_CSharp\bin\Debug\net6.0\projeto.deps.json
+C:\Users\DaniloMaia\OneDrive - Direct Digital\Documents\Projetos\heranca_CSharp\bin\Debug\net6.0\projeto.runtimeconfig.json
+C:\Users\DaniloMaia\OneDrive - Direct Digital\Documents\Projetos\heranca_CSharp\bin\Debug\net6.0\projeto.dll
+C:\Users\DaniloMaia\OneDrive - Direct Digital\Documents\Projetos\heranca_CSharp\bin\Debug\net6.0\projeto.pdb
+C:\Users\DaniloMaia\OneDrive - Direct Digital\Documents\Projetos\heranca_CSharp\obj\Debug\net6.0\projeto.csproj.AssemblyReference.cache
+C:\Users\DaniloMaia\OneDrive - Direct Digital\Documents\Projetos\heranca_CSharp\obj\Debug\net6.0\projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DaniloMaia\OneDrive - Direct Digital\Documents\Projetos\heranca_CSharp\obj\Debug\net6.0\projeto.AssemblyInfoInputs.cache
+C:\Users\DaniloMaia\OneDrive - Direct Digital\Documents\Projetos\heranca_CSharp\obj\Debug\net6.0\projeto.AssemblyInfo.cs
+C:\Users\DaniloMaia\OneDrive - Direct Digital\Documents\Projetos\heranca_CSharp\obj\Debug\net6.0\projeto.csproj.CoreCompileInputs.cache
+C:\Users\DaniloMaia\OneDrive - Direct Digital\Documents\Projetos\heranca_CSharp\obj\Debug\net6.0\projeto.dll
+C:\Users\DaniloMaia\OneDrive - Direct Digital\Documents\Projetos\heranca_CSharp\obj\Debug\net6.0\refint\projeto.dll
+C:\Users\DaniloMaia\OneDrive - Direct Digital\Documents\Projetos\heranca_CSharp\obj\Debug\net6.0\projeto.pdb
+C:\Users\DaniloMaia\OneDrive - Direct Digital\Documents\Projetos\heranca_CSharp\obj\Debug\net6.0\projeto.genruntimeconfig.cache
+C:\Users\DaniloMaia\OneDrive - Direct Digital\Documents\Projetos\heranca_CSharp\obj\Debug\net6.0\ref\projeto.dll

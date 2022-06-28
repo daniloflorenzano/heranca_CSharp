@@ -15,5 +15,14 @@ namespace Projeto.Entities
         {
             Balance += Balance * InterestRate;
         }
+
+        public override void Withdraw(double amount)
+        {   
+            // repetindo a logica do metodo que esta em Account com a palavra "base"
+            base.Withdraw(amount);
+
+            // adicionando logica:
+            Balance -= 2.0;
+        }
     }
 }

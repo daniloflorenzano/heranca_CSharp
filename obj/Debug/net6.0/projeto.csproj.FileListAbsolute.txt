@@ -1,0 +1,15 @@
+/home/danilo/Documentos/Projetos/dotnet/projeto/bin/Debug/net6.0/projeto
+/home/danilo/Documentos/Projetos/dotnet/projeto/bin/Debug/net6.0/projeto.deps.json
+/home/danilo/Documentos/Projetos/dotnet/projeto/bin/Debug/net6.0/projeto.runtimeconfig.json
+/home/danilo/Documentos/Projetos/dotnet/projeto/bin/Debug/net6.0/projeto.dll
+/home/danilo/Documentos/Projetos/dotnet/projeto/bin/Debug/net6.0/projeto.pdb
+/home/danilo/Documentos/Projetos/dotnet/projeto/obj/Debug/net6.0/projeto.csproj.AssemblyReference.cache
+/home/danilo/Documentos/Projetos/dotnet/projeto/obj/Debug/net6.0/projeto.GeneratedMSBuildEditorConfig.editorconfig
+/home/danilo/Documentos/Projetos/dotnet/projeto/obj/Debug/net6.0/projeto.AssemblyInfoInputs.cache
+/home/danilo/Documentos/Projetos/dotnet/projeto/obj/Debug/net6.0/projeto.AssemblyInfo.cs
+/home/danilo/Documentos/Projetos/dotnet/projeto/obj/Debug/net6.0/projeto.csproj.CoreCompileInputs.cache
+/home/danilo/Documentos/Projetos/dotnet/projeto/obj/Debug/net6.0/projeto.dll
+/home/danilo/Documentos/Projetos/dotnet/projeto/obj/Debug/net6.0/refint/projeto.dll
+/home/danilo/Documentos/Projetos/dotnet/projeto/obj/Debug/net6.0/projeto.pdb
+/home/danilo/Documentos/Projetos/dotnet/projeto/obj/Debug/net6.0/projeto.genruntimeconfig.cache
+/home/danilo/Documentos/Projetos/dotnet/projeto/obj/Debug/net6.0/ref/projeto.dll
